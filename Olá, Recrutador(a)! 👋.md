@@ -1,4 +1,4 @@
-# Olá, Recrutador(a)! 👋
+# Olá! 👋
 
 Bem-vindo(a) ao meu perfil profissional no GitHub!
 
@@ -8,7 +8,7 @@ Este repositório contém meu currículo detalhado, onde você poderá encontrar
 
 Para visualizar meu currículo completo e atualizado, por favor, acesse o arquivo:
 
-➡️ **[CV_Fulano.md](./CV_Fulano.md)**
+➡️ **[CV_Ney_Costa.md](./CV_Ney_Costa.md)**
 
 ##  контактные данные
 
