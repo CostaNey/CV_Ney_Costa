@@ -12,12 +12,11 @@ Para visualizar meu currículo completo e atualizado, por favor, acesse o arquiv
 
 ## Ficarei feliz em discutir como minhas qualificações podem agregar valor à sua equipe.
 <br>
-- LinkedIn: www.linkedin.com/in/neycostamdk
-<br>
-- E-mail: costa.ney@gmail.com  
-<br>
-<br>
 
+*   **LinkedIn:** [www.linkedin.com/in/neycostamdk]
+*   **E-mail:** [costa.ney@gmail.com]
+
+<br>
 Obrigado pela sua visita e interesse!\
 Qualquer dúvida, estou à disposição!
 
