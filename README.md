@@ -1,91 +1,106 @@
-# [Ney Leme Costa] 👋
+# NEY LEME COSTA
 
-📍 **São Paulo** | 📧 **Email: costa.ney@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/neycostamdk) | 🐦 [Twitter/X (opcional)]()  
+**São Paulo – SP | Cel.: ¹¹ 93015-9277 | e-mail: costa.ney@gmail.com | Github: https://github.com/CostaNey/CV_Ney_Costa
+LinkedIn: SEU_LINKEDIN_AQUI**
 
-### 📄 **Resumo Profissional**  
-[Um parágrafo curto destacando sua área, experiência e objetivos.]  
+## 🎯 Resumo profissional:
 
-### 🛠 **Habilidades Técnicas**  
-- **Linguagens:** Python, JavaScript, Java  
-- **Frameworks:** React, Node.js, Django  
-- **Ferramentas:** Git, Docker, AWS  
-- **Outras:** Scrum, UX/UI (se aplicável)  
+Profissional de TI com mais de 15 anos de experiência, especializado em infraestrutura, gestão de equipes e segurança da informação. Histórico de liderança em NOCs, gestão de crises e implementação de melhorias operacionais. Experiente na otimização de processos e redução de riscos, com impacto comprovado em empresas como Capgemini e HITSS do Brasil. Pós-graduado em Data Science, Inteligência Artificial e Governança de TI, certificado em tecnologias emergentes e melhores práticas de gestão.
 
-### 💼 **Experiência Profissional**  
-#### **Nome da Empresa** - *Cargo* (MM/AAAA - MM/AAAA)  
-- Descrição das responsabilidades e conquistas.  
-- Ex: "Desenvolvi um sistema de automação que reduziu tarefas manuais em 30%."  
+## 🛠️ Competências Técnicas
 
-#### **Outra Empresa** - *Cargo* (MM/AAAA - MM/AAAA)  
-- Contribuições relevantes.  
+### Expertise em Gestão e Técnicas Operacionais:
 
-### 🎓 **Formação Acadêmica**  
-**Nome da Universidade** - *Curso* (AAAA - AAAA)  
+*   **Liderança em Infraestrutura e Redes:** Responsável por garantir a estabilidade, disponibilidade e desempenho da infraestrutura de rede. Atuação ativa em troubleshootings, controle de atividades, relatórios, promoção de melhorias contínuas e War Room em conjunto com a equipe de Network. Implementação projeto AT&T de infraestrutura a nível nacional.
+*   **Gestão de Equipe NOC:** Supervisão da equipe de monitoramento (NOC), assegurando conformidade com SLAs. Identificação de necessidades de capacitação e desenvolvimento de competências alinhadas às demandas operacionais e do cliente.
+*   **Gestão de Ativos de TI:** Monitoramento do ciclo de vida dos equipamentos, manutenção de inventário atualizado e planejamento estratégico para renovações. Coordenação com fornecedores e fabricantes para garantir suporte técnico e garantias dentro dos prazos.
+*   **Prevenção e Mitigação de Riscos:** Desenvolvimento e aplicação de estratégias preventivas para reduzir riscos operacionais e impactos em produção. Execução de mudanças controladas com foco em estabilidade e continuidade dos serviços.
+*   **Gestão de Crises (War Room):** Condução de respostas rápidas a incidentes críticos, mobilizando equipes multidisciplinares para resolução eficaz. Tomada de decisão baseada em dados para minimizar interrupções e restaurar operações com segurança.
+*   **Gestão de Infraestrutura:** Liderança em operações de rede, monitoramento (NOC), prevenção de falhas e continuidade de serviços.
+*   **Gestão de Equipes:** Coordenação de equipes multidisciplinares, desenvolvimento de talentos e resolução de conflitos.
+*   **Segurança da Informação:** Implementação de controles, colaboração com equipes de cibersegurança e controle de acessos.
+*   **ITIL & Governança:** Adoção das melhores práticas ITIL, gestão de SLA/SLO e documentação de procedimentos.
+*   **Melhoria Contínua:** Redução de backlog, padronização de processos e renovação tecnológica.
+*   **Tecnologias:** Ferramentas de monitoramento (Zabbix, Grafana), Git/GitHub, Azure OpenAI, Service Desk, redes e infraestrutura.
 
-###   **Projetos Destacados**  
-- [**Projeto 1**](link-do-repositorio): Breve descrição + tecnologias usadas.  
-- [**Projeto 2**](link-do-repositorio): Resultados alcançados (ex: "App com 5k usuários").  
+## 💼 EXPERIÊNCIA PROFISSIONAL:
 
-📌 **Dica:** Inclua badges do Shields.io para tecnologias (ex: ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)).  
+### HITSS do Brasil (Grupo Claro)
+**Coordenador de operações II – ago/2024 - atual**
 
----
+*Principais atividades realizadas:*
+*   Liderança de equipes operacionais, garantindo produtividade e cumprimento de metas.
+*   Implementação de melhorias nos processos operacionais, aumentando a eficiência.
+*   Gestão de recursos e riscos, assegurando conformidade com políticas internas.
+*   Atuação direta na identificação de falhas e aplicação de soluções estratégicas.
+*   Efetivação de melhorias contínuas
 
-## 🖥 **Opção 2: Currículo em HTML/CSS + GitHub Pages**  
-Siga estes passos para um currículo estilizado:  
+### Capgemini Business Services Brasil
+**Tech Leader (Projeto AES Brasil) – jan/2020 - ago/2024**
 
-### **Passo 1: Crie um repositório**  
-Nomeie como `seu-usuario.github.io` (para GitHub Pages automático) ou use um repositório qualquer e ative o Pages nas configurações.  
+*Principais conquistas:*
+*   Reestruturação do NOC e redução de backlog de 200 chamados legados.
+*   Colaboração com o time de Network da AES para padronização de processos e melhoria de governança.
+*   Supervisão de equipe e acionamento de fornecedores em incidentes críticos.
+*   Aplicação de boas práticas ITIL para garantir conformidade com os indicadores contratuais.
+*   Definir junto ao time de NETWORK AES Brasil processos, atividades, melhoria contínua do ambiente e criar padrões das unidades AES Brasil
+*   Estudos de melhoria e saúde de frames e versões de infraestrutura e seus equipamentos
+*   Acompanhamento de vida útil junto ao fabricante e renovações garantias e suportes de forma controlar o parque atualizado e estável.
+*   Gerenciamento em processos para aplicação de regras em SD-WAN e infraestrutura e liberações de acesso no intuito em evitar invasões indesejadas a infraestrutura.
 
-### **Passo 2: Estrutura básica**  
-Crie um arquivo `index.html`:  
+*Principais atividades realizadas:*
+*   Supervisionar o time NOC e criar processos para acionamento de fornecedores de forma mais assertiva e rápida no momento de crise.
+*   Desenvolvimentos de processos para padronização de infraestrutura.
+*   Em momentos de crise acionar as equipes para análise e solução rápida
+*   Colocar em prática o uso das boas práticas de ITIL na operação.
 
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo - [Seu Nome]</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Seu Nome</h1>
-            <p>Desenvolvedor Full Stack | Python & JavaScript</p>
-            <div class="contact">
-                <a href="mailto:seu@email.com">📧 seu@email.com</a>
-                <a href="https://linkedin.com/in/seu-perfil">🔗 LinkedIn</a>
-                <a href="https://github.com/seu-usuario">🐙 GitHub</a>
-            </div>
-        </header>
+### Global Hitss do Brasil (Grupo Claro)
+**Supervisor Field Service N2 (Projeto Amil) – mar/2016 - mar/2020**
 
-        <section>
-            <h2>🛠 Habilidades</h2>
-            <ul class="skills">
-                <li>JavaScript (React, Node.js)</li>
-                <li>Python (Django, Flask)</li>
-                <li>Git & DevOps</li>
-            </ul>
-        </section>
+*Principais conquistas:*
+*   Transição bem-sucedida entre fornecedores, eliminando backlog de 1.200 chamados pendentes.
+*   Treinamento de 70% da equipe nos processos da Amil.
+*   Desenvolvimento de base de conhecimento com tutoriais e soluções para erros conhecidos.
+*   Gestão do suporte de campo, fila de manutenção de equipamentos e cumprimento de SLA.
+*   Garantir o cumprimento de todos os indicadores contratuais dentro do período de SLO do contrato.
 
-        <section>
-            <h2>💼 Experiência</h2>
-            <div class="job">
-                <h3>Nome da Empresa</h3>
-                <p class="period">MM/AAAA - MM/AAAA</p>
-                <ul>
-                    <li>Responsabilidade 1</li>
-                    <li>Responsabilidade 2</li>
-                </ul>
-            </div>
-        </section>
+*Principais atividades realizadas:*
+*   Supervisionar a equipe de volante SP para atendimento ao cliente AMIL
+*   Acompanhamento e condução nos projetos
+*   Controle de SLA e níveis de serviço garantindo qualidade no serviço executado pela equipe
+*   Distribuição de chamados para equipe volante
+*   Controle da fila de manutenção de equipamentos, enviando para usuário final orçamentos para aprovação e acompanhamento da entrega do equipamento
+*   Gerenciar parceiros e garantir qualidade na entrega de serviços
+*   Gerenciar expectativas e níveis de satisfação dos usuários
 
-        <section>
-            <h2>🎓 Formação</h2>
-            <p><strong>Universidade XYZ</strong> - Bacharelado em Ciência da Computação (AAAA-AAAA)</p>
-        </section>
-    </div>
-</body>
-</html>
+## 🎓 FORMAÇÃO
+
+*   **Centro Universitário Uninove** – Pós-graduação – Data Science e Analytics [cursando]
+*   **Centro Universitário Uninove** – Pós-graduação – IA e Machine Learning [2024]
+*   **SENAC Universidade** – Pós-graduação – Gestão e Governança de Tecnologia da Informação [2023]
+*   **Centro Universitário Uninove** – Graduação – Sistemas de Segurança da Informação [2019]
+
+## 📜 Certificações
+
+### IA & CLOUD:
+*   AI-050: Azure OpenAI (Microsoft/ KOENIG)
+*   Conceitos Fundamentais em AI (DIO)
+
+### DEVOPS & GESTÃO:
+*   Git e Github (DIO)
+*   Lógica e Pensamento Computacional (DIO)
+*   Desafios de Códigos e Pensamento Computacional (DIO)
+
+## 🌐 Idiomas
+
+*   🇧🇷 **BR Português** – Nativo
+*   🇺🇸 **US Inglês** – Intermediário (Leitura)
+*   🇪🇸 **ES Espanhol** – Básico (Conversação)
+
+## 💡 SOFT SKILLS
+
+*   Liderança de equipes técnicas e multidisciplinares
+*   Comunicação clara com times e stakeholders
+*   Resolução de problemas com foco estratégico
+*   Adaptabilidade a mudanças e novas tecnologias
+*   Gestão de tempo e definição de prioridades
