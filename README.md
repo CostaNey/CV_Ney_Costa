@@ -44,6 +44,8 @@ Embora minha experiência anterior tenha um forte componente de gestão e opera�
 
 Estou animado com as possibilidades desta nova fase e adoraria conectar-me com profissionais e empresas que buscam um perfil com sólida experiência em TI e uma forte paixão por inovação e tecnologia.
 
+
+*   **Currículo:** [ **[Curriculo.md](./Ney_Costa_CV.md)**]
 *   **LinkedIn:** [www.linkedin.com/in/neycostamdk]
 *   **E-mail:** [costa.ney@gmail.com]
 
