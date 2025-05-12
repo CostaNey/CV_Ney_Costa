@@ -5,12 +5,12 @@ Cel.: ¹¹ 93015-9277
 e-mail: costa.ney@gmail.com  
 LinkedIn: www.linkedin.com/in/neycostamdk  
 Github: https://github.com/CostaNey/CV_Ney_Costa  
-
-
+<br>
 ## 🎯 Resumo profissional:
 
 Profissional de TI com mais de 15 anos de experiência, especializado em infraestrutura, gestão de equipes e segurança da informação. Histórico de liderança em NOCs, gestão de crises e implementação de melhorias operacionais. Experiente na otimização de processos e redução de riscos, com impacto comprovado em empresas como Capgemini e HITSS do Brasil. Pós-graduado em Data Science, Inteligência Artificial e Governança de TI, certificado em tecnologias emergentes e melhores práticas de gestão.
-
+<br>
+<br>
 ## 🛠️ Competências Técnicas
 
 ### Expertise em Gestão e Técnicas Operacionais:
@@ -26,6 +26,7 @@ Profissional de TI com mais de 15 anos de experiência, especializado em infraes
 *   **ITIL & Governança:** Adoção das melhores práticas ITIL, gestão de SLA/SLO e documentação de procedimentos.
 *   **Melhoria Contínua:** Redução de backlog, padronização de processos e renovação tecnológica.
 *   **Tecnologias:** Ferramentas de monitoramento (Zabbix, Grafana), Git/GitHub, Azure OpenAI, Service Desk, redes e infraestrutura.
+<br>
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL:
 
@@ -76,6 +77,7 @@ Profissional de TI com mais de 15 anos de experiência, especializado em infraes
 *   Controle da fila de manutenção de equipamentos, enviando para usuário final orçamentos para aprovação e acompanhamento da entrega do equipamento
 *   Gerenciar parceiros e garantir qualidade na entrega de serviços
 *   Gerenciar expectativas e níveis de satisfação dos usuários
+<br>
 
 ## 🎓 FORMAÇÃO
 
@@ -83,6 +85,7 @@ Profissional de TI com mais de 15 anos de experiência, especializado em infraes
 *   **Centro Universitário Uninove** – Pós-graduação – IA e Machine Learning [2024]
 *   **SENAC Universidade** – Pós-graduação – Gestão e Governança de Tecnologia da Informação [2023]
 *   **Centro Universitário Uninove** – Graduação – Sistemas de Segurança da Informação [2019]
+<br>
 
 ## 📜 Certificações
 
@@ -94,12 +97,16 @@ Profissional de TI com mais de 15 anos de experiência, especializado em infraes
 *   Git e Github (DIO)
 *   Lógica e Pensamento Computacional (DIO)
 *   Desafios de Códigos e Pensamento Computacional (DIO)
+<br>
+
 
 ## 🌐 Idiomas
 
 *   🇧🇷 **BR Português** – Nativo
 *   🇺🇸 **US Inglês** – Intermediário (Leitura)
 *   🇪🇸 **ES Espanhol** – Básico (Conversação)
+<br>
+
 
 ## 💡 SOFT SKILLS
 
