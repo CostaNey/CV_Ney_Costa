@@ -4,7 +4,7 @@ São Paulo – SP
 Cel.: ¹¹ 93015-9277  
 e-mail: costa.ney@gmail.com  
 LinkedIn: www.linkedin.com/in/neycostamdk  
-Github: https://github.com/CostaNey/CV_Ney_Costa  
+Github: https://github.com/CostaNey/curriculo  
 <br>
 ## 🎯 Resumo profissional:
 
