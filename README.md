@@ -36,16 +36,15 @@ Embora minha experiência anterior tenha um forte componente de gestão e opera�
 *   **Visão Estratégica de TI:** Pós-graduações em Data Science, IA e Governança de TI, que me fornecem uma base sólida para as novas áreas de interesse.
 *   **Familiaridade com Tecnologias de Monitoramento e Infraestrutura:** Zabbix, Grafana, Redes, que são fundamentais para o desenvolvimento e a sustentação de sistemas.
 
-➡️ **Para mais detalhes sobre minha trajetória profissional, confira meu currículo completo:** [Link para o seu CV_Fulano.md ou CV_Ney_Costa no repositório, por exemplo, ./CV_Ney_Costa]
+➡️ **Para mais detalhes sobre minha trajetória profissional, confira meu currículo completo:** [Curriculo.md](./Ney_Costa_CV.md)]
 
 ---
 
 ## 💬 Vamos Conversar!
 
 Estou animado com as possibilidades desta nova fase e adoraria conectar-me com profissionais e empresas que buscam um perfil com sólida experiência em TI e uma forte paixão por inovação e tecnologia.
+<br>
 
-
-*   **Currículo:** [ **[Curriculo.md](./Ney_Costa_CV.md)**]
 *   **LinkedIn:** [www.linkedin.com/in/neycostamdk]
 *   **E-mail:** [costa.ney@gmail.com]
 
