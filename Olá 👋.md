@@ -21,7 +21,7 @@ Para visualizar meu currículo completo e atualizado, por favor, acesse o arquiv
 Obrigado pela sua visita e interesse!\
 Qualquer dúvida, estou à disposição!
 
-Desde jà,
+Desde já,  
 Obrigado!
 ---
 
