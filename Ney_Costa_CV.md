@@ -1,7 +1,11 @@
 # NEY LEME COSTA
 
-**São Paulo – SP | Cel.: ¹¹ 93015-9277 | e-mail: costa.ney@gmail.com | Github: https://github.com/CostaNey/CV_Ney_Costa
-LinkedIn: SEU_LINKEDIN_AQUI**
+São Paulo – SP  
+Cel.: ¹¹ 93015-9277  
+e-mail: costa.ney@gmail.com  
+LinkedIn: www.linkedin.com/in/neycostamdk  
+Github: https://github.com/CostaNey/CV_Ney_Costa  
+
 
 ## 🎯 Resumo profissional:
 
