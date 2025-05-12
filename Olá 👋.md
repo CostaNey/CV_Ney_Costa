@@ -8,7 +8,7 @@ Este repositório contém meu currículo detalhado, onde você poderá encontrar
 
 Para visualizar meu currículo completo e atualizado, por favor, acesse o arquivo:
 
-➡️ **[Curriculo.md](./Ney_Costa_CV.md)**
+➡️ [Curriculo.md](./Ney_Costa_CV.md)
 
 ## Ficarei feliz em discutir como minhas qualificações podem agregar valor à sua equipe.
 <br>
