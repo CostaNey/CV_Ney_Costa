@@ -10,16 +10,18 @@ Para visualizar meu currículo completo e atualizado, por favor, acesse o arquiv
 
 ➡️ **[CV_Ney_Costa.md](./CV_Ney_Costa.md)**
 
-##  контактные данные
+## Ficarei feliz em discutir como minhas qualificações podem agregar valor à sua equipe.
+<br>
+- LinkedIn: www.linkedin.com/in/neycostamdk
+<br>
+- E-mail: costa.ney@gmail.com  
+<br>
+<br>
 
-Ficarei feliz em discutir como minhas qualificações podem agregar valor à sua equipe.
+Obrigado pela sua visita e interesse!\
+Qualquer dúvida, estou à disposição!
 
-*   **LinkedIn:** SEU_LINKEDIN_AQUI
-*   **E-mail:** SEU_EMAIL_AQUI
-
-Obrigado pela sua visita e interesse!
-
+Desde jà,
+Obrigado!
 ---
-
-*Este README foi gerado para apresentar o currículo de forma organizada e acessível.*
 
