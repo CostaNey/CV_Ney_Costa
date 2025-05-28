@@ -1,6 +1,6 @@
 # Olá, eu sou Ney Leme Costa! 👋
 
-## 🚀 Em Transição de Carreira: Foco em Desenvolvimento & Network com IA e Data Science
+## 🚀 Em transição de carreira: foco em Desenvolvimento e Redes com IA e Ciência de Dados
 
 Sou um profissional de TI com mais de 15 anos de sólida experiência em infraestrutura, gestão de equipes e segurança da informação. Atualmente, estou direcionando minha carreira para áreas técnicas mais especializadas, como **Desenvolvimento de Software** e **Engenharia de Redes (Network)**, com um forte interesse em aplicar meus conhecimentos em **Inteligência Artificial** e **Data Science** para criar soluções inovadoras e otimizar plataformas.
 
