@@ -1,4 +1,4 @@
-# Olá, eu sou NEY LEME COSTA! 👋
+# Olá, eu sou Ney Leme Costa! 👋
 
 ## 🚀 Em Transição de Carreira: Foco em Desenvolvimento & Network com IA e Data Science
 
